@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "BB23855B1B3DD5AB0079CD01"
-               BuildableName = "Grocr.app"
-               BlueprintName = "Grocr"
-               ReferencedContainer = "container:Grocr.xcodeproj">
+               BuildableName = "Tangerine.app"
+               BlueprintName = "Tangerine"
+               ReferencedContainer = "container:Tangerine.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "BB23855B1B3DD5AB0079CD01"
-            BuildableName = "Grocr.app"
-            BlueprintName = "Grocr"
-            ReferencedContainer = "container:Grocr.xcodeproj">
+            BuildableName = "Tangerine.app"
+            BlueprintName = "Tangerine"
+            ReferencedContainer = "container:Tangerine.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -56,9 +56,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "BB23855B1B3DD5AB0079CD01"
-            BuildableName = "Grocr.app"
-            BlueprintName = "Grocr"
-            ReferencedContainer = "container:Grocr.xcodeproj">
+            BuildableName = "Tangerine.app"
+            BlueprintName = "Tangerine"
+            ReferencedContainer = "container:Tangerine.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -75,9 +75,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "BB23855B1B3DD5AB0079CD01"
-            BuildableName = "Grocr.app"
-            BlueprintName = "Grocr"
-            ReferencedContainer = "container:Grocr.xcodeproj">
+            BuildableName = "Tangerine.app"
+            BlueprintName = "Tangerine"
+            ReferencedContainer = "container:Tangerine.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
