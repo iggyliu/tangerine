@@ -46,7 +46,7 @@ class GroceryListTableViewController: UITableViewController {
     userCountBarButtonItem.tintColor = UIColor.white
     navigationItem.leftBarButtonItem = userCountBarButtonItem
     
-    user = User(uid: "FakeId", email: "hungry@person.food")
+    user = User(uid: "FakeId", email: "youdongz@fb.com")
   }
   
   // MARK: UITableView Delegate methods
@@ -103,7 +103,7 @@ class GroceryListTableViewController: UITableViewController {
   // MARK: Add Item
   
   @IBAction func addButtonDidTouch(_ sender: AnyObject) {
-    let alert = UIAlertController(title: "Grocery Item",
+    let alert = UIAlertController(title: "Trip Item",
                                   message: "Add an Item",
                                   preferredStyle: .alert)
     

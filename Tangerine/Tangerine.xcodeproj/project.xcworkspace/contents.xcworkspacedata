@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:/Users/youdongzhang/Desktop/tangerine/Tangerine/Tangerine.xcodeproj">
+      location = "self:Tangerine.xcodeproj">
    </FileRef>
 </Workspace>

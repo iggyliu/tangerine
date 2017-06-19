@@ -30,7 +30,7 @@
 		BB2385681B3DD5AB0079CD01 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
 		BB23856B1B3DD5AB0079CD01 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
 		BB2385831B3DD8660079CD01 /* GroceryListTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GroceryListTableViewController.swift; sourceTree = "<group>"; };
-		BB2385851B3DD8820079CD01 /* Grocr-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Grocr-Bridging-Header.h"; sourceTree = "<group>"; };
+		BB2385851B3DD8820079CD01 /* Tangerine-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Tangerine-Bridging-Header.h"; sourceTree = "<group>"; };
 		BB2385891B3DD9640079CD01 /* GroceryItem.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GroceryItem.swift; sourceTree = "<group>"; };
 		BB30CD491B439B60004B3177 /* OnlineUsersTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = OnlineUsersTableViewController.swift; sourceTree = "<group>"; };
 		BB7DA5101B42C8100018B530 /* User.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = User.swift; sourceTree = "<group>"; };
@@ -88,15 +88,14 @@
 				BB7DA5121B42CA790018B530 /* Other */,
 				BB23855F1B3DD5AB0079CD01 /* Supporting Files */,
 			);
-			name = Tangerine;
-			path = Grocr;
+			path = Tangerine;
 			sourceTree = "<group>";
 		};
 		BB23855F1B3DD5AB0079CD01 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
 				BB2385601B3DD5AB0079CD01 /* Info.plist */,
-				BB2385851B3DD8820079CD01 /* Grocr-Bridging-Header.h */,
+				BB2385851B3DD8820079CD01 /* Tangerine-Bridging-Header.h */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
@@ -164,7 +163,7 @@
 			dependencies = (
 			);
 			name = Tangerine;
-			productName = Grocr;
+			productName = Tangerine;
 			productReference = BB23855C1B3DD5AB0079CD01 /* Tangerine.app */;
 			productType = "com.apple.product-type.application";
 		};
@@ -398,14 +397,14 @@
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				ENABLE_BITCODE = NO;
-				INFOPLIST_FILE = Grocr/Info.plist;
+				INFOPLIST_FILE = Tangerine/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = rw.firebase.gettingstarted;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
 				PROVISIONING_PROFILE_SPECIFIER = "";
-				SWIFT_OBJC_BRIDGING_HEADER = "Grocr/Grocr-Bridging-Header.h";
+				SWIFT_OBJC_BRIDGING_HEADER = "Tangerine/Tangerine-Bridging-Header.h";
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 3.0;
 				TARGETED_DEVICE_FAMILY = 1;
@@ -421,13 +420,13 @@
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				ENABLE_BITCODE = NO;
-				INFOPLIST_FILE = Grocr/Info.plist;
+				INFOPLIST_FILE = Tangerine/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = rw.firebase.gettingstarted;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
-				SWIFT_OBJC_BRIDGING_HEADER = "Grocr/Grocr-Bridging-Header.h";
+				SWIFT_OBJC_BRIDGING_HEADER = "Tangerine/Tangerine-Bridging-Header.h";
 				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
 				SWIFT_VERSION = 3.0;
 				TARGETED_DEVICE_FAMILY = 1;
